@@ -7,7 +7,7 @@
 </div>
 
 - 🔭 I’m passionate about software development, backend in the [C++](https://learn.microsoft.com/ru-ru/cpp/cpp/?view=msvc-170) programming language and JavaScript ([React](https://react.dev/)) for writing the interface of programs, frontend.
-- 🏆 I'm striving to increase my [GitHub stats rating](https://github.com/Blackflame796/Blackflame796/edit/master/README.md#-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
+- 🏆 I'm striving to increase my [GitHub stats rating](https://github.com/Blackflame796/Blackflame796/master/README.md#-my-stats) by contributing to [open source](https://opensource.com/resources/what-open-source).
 <div align="center">
   
 ## 💻 My Tech Stack:
