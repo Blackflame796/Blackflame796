@@ -2,8 +2,8 @@
 <p align="center"><img src="./WorkImage.svg"></p>
   
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://x.com/blackflame796) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](https://x.com/blackflame796) &nbsp;
-[![Telegram](./TelegramLogo.svg)]([https://t.me/Blackflame796) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:blackflame796@gmail.com?subject=Hello%20Blackflame796,%20From%20Github) &nbsp;
+<a href="https://t.me/Blackflame796"><img src="./TelegramLogo.svg"></a>
 </div>
 
 ### 🔭 I’m passionate about software development, backend in the [C++](https://learn.microsoft.com/ru-ru/cpp/cpp/?view=msvc-170) programming language and JavaScript ([React](https://react.dev/)) for writing the interface of programs, frontend.
