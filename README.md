@@ -6,4 +6,7 @@
 [![Telegram](./TelegramLogo.svg)]([https://t.me/Blackflame796) &nbsp;
 
 ## 💻 My Tech Stack:
+
+[![cmake, cpp,linux, Node.js, JavaScript, AWS](https://skillicons.dev/icons?i=js,vite,react,py,cmake,cpp,postgres,nginx,postman,git,docker,kubernetes,linux,apple,windows,aws&perline=8)](https://skillicons.dev)
+
 </div>
