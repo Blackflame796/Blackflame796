@@ -7,13 +7,13 @@
 <a href="https://t.me/blackflame796_dev"><img src="./TelegramLogo.svg"></a>
 </div>
 
-### 👋 Hi, I`m Pavel (Blackflame). 🧑‍💻 Backend developer with 1 year of professional experience in building scalable and efficient server-side applications. 🛠 Specializing in API development, database design, and system architecture.
+### 👋 Hi, I`m Pavel (m0nt1g3m). 🧑‍💻 Backend developer with one year of experience building high-load systems and innovative web solutions in Go. Previously, I worked with C++. 🛠 Specializing in API development, database design, and system architecture.
 
 ### Passionate about clean code, 🚀 performance optimization, and learning new technologies. I enjoy solving complex problems and creating reliable backend systems that can handle real-world loads.
 <div align="center">
   
 ## 💻 My Tech Stack:
 
-[![cmake, cpp,linux, Node.js, JavaScript, AWS](https://skillicons.dev/icons?i=go,cpp,py,cmake,fastapi,postgres,mongodb,sqlite,redis,nginx,postman,git,docker,kubernetes,apple,linux&perline=8)](https://skillicons.dev)
+[![cmake](https://skillicons.dev/icons?i=go,cpp,py,cmake,fastapi,postgres,mongodb,sqlite,redis,nginx,postman,git,docker,kubernetes,apple,linux&perline=8)](https://skillicons.dev)
 
 </div>
