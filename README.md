@@ -1,9 +1,9 @@
 <div align="center">
 <p align="center"><img src="./WorkImage.svg"></p>
   
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://x.com/blackflame796) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:blackflame796@gmail.com?subject=Hello%20Blackflame796,%20From%20Github) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](http://linkedin.com/in/blackflame796) &nbsp;
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://x.com/m0nt1g3m_dev) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:developer.m0nt1g3m@gmail.com?subject=Hello%20Blackflame796,%20From%20Github) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/m0nt1g3m) &nbsp;
 <a href="https://t.me/blackflame796_dev"><img src="./TelegramLogo.svg"></a>
 </div>
 
